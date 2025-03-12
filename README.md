@@ -35,7 +35,3 @@ streamlit run app.py
  Improve accuracy with **XGBoost**  
  Add **data visualizations**  
  Deploy on **Streamlit Cloud / Hugging Face Spaces**  
-
-**Live Demo & Repository**  
-**Live App:** [Deployment Link]  
-**GitHub Repo:** [Your GitHub Link]  
