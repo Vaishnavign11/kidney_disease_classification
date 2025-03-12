@@ -1,13 +1,13 @@
-Kidney Disease Classification using Random Forest & Streamlit 
+**Kidney Disease Classification using Random Forest & Streamlit **
 ![Screenshot 2024-01-19 181931](https://github.com/user-attachments/assets/4cce769b-b315-4951-bf98-ab7cb85e0e53)
 
 A machine learning model for kidney disease prediction using Random Forest and a user-friendly Streamlit web app for real-time diagnosis.  
 
-Features 
-Predicts Kidney Disease** based on medical input parameters  
-Built with Random Forest** for high accuracy  
-Interactive Web App** using Streamlit  
-User-friendly UI** for quick diagnosis  
+**Features **
+**Predicts Kidney Disease** based on medical input parameters  
+**Built with Random Forest** for high accuracy  
+**Interactive Web App** using Streamlit  
+**User-friendly UI** for quick diagnosis  
 
  **Tech Stack**  
 - **Python, Pandas, NumPy, Scikit-learn** (Machine Learning)  
